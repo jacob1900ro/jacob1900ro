@@ -15,7 +15,7 @@
 |     cal     | Muestra un calendario del mes actual |
 #
 
-## Comandos alias utiles
+## Alias utiles
 | Alias | Descripcion |
 | ---------- | ----------- |
 | alias rm="trash" | Para evitar eliminar permanente los archivos | 
